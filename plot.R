@@ -6,7 +6,7 @@ library(tibble)
 library(showtext)
 library(ggtext)
 
-source("portfolio/data-viz/math-series/kuratowski-closure-complement/files/data.R")
+source("data.R")
 
 DISPLAY_MIN <- -3
 DISPLAY_MAX <- 6
